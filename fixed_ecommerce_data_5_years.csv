@@ -59,3 +59,104 @@ Month,Website_Traffic,Conversion_Rate,Avg_Order_Value,Customer_Acquisition_Cost,
 2024-10,91211,1.58,151.63,65.64,31.22,Sports,218519.12,1441
 2024-11,85697,1.24,52.49,45.18,31.49,Beauty,55778.12,1062
 2024-12,57065,3.31,126.81,50.38,62.9,Electronics,239525.26,1888
+CustomerID	Name	Email	Phone	Location	JoinDate	AUM	RiskProfile	PreferredContact	ProductInterest
+bdd640fb-0667-4ad1-9c80-317fa3b1799d	Tammy Allison	dayderek@white-green.com	502-296-1201x83667	Patrickberg	5/26/2023	643032.53	Low	Phone	ETFs
+23b8c1e9-3924-46de-beb1-3b9046685257	John Lewis	wmurphy@ramirez-bean.biz	254-599-1022x90147	New Juliestad	6/25/2024	34760.65	High	Email	Equities
+bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9	Anthony Gray	ruizkaitlyn@gmail.com	+1-679-764-3815x61497	North Samuelland	1/7/2024	282279.03	High	SMS	Alternatives
+972a8469-1641-4f82-8b9d-2434e465e150	Mrs. Rachel Gibson	debraharrington@hotmail.com	403.690.0343x24451	Cassiefurt	5/27/2024	230978.63	Low	Email	Bonds
+17fc695a-07a0-4a6e-8822-e8f36c031199	Tyler Cowan	herringjames@howell.com	7622683885	Anthonyview	11/14/2023	739106.5	High	SMS	Alternatives
+9a1de644-815e-46d1-bb8f-aa1837f8a88b	Michelle Moore	elliottjeffery@hotmail.com	606-071-5969	Henrystad	7/16/2024	679932.49	High	SMS	Alternatives
+b74d0fb1-32e7-4629-8fad-c1a606cb0fb3	Wayne Riley	gary91@gmail.com	(641)605-2975x1613	Reynoldsshire	6/1/2024	893257.77	Medium	SMS	Equities
+6b65a6a4-8b81-48f6-b38a-088ca65ed389	Nicole Brown	lanesarah@hotmail.com	(968)164-5352x18188	Millerport	8/18/2023	96069.44	High	Phone	Alternatives
+47378190-96da-4dac-b2ff-5d2a386ecbe0	Kathryn Farrell	mdavid@gmail.com	552.312.4329	Lake Charles	12/17/2023	427702.6	Medium	Email	Equities
+c241330b-01a9-471f-9e8a-774bcf36d58b	Tyler Miller	terrykevin@burke.com	(127)799-7995	Ericberg	10/7/2024	39499.25	Low	Phone	ETFs
+6c307511-b2b9-437a-a8df-6ec4ce4a2bbd	Kurt Leonard	estanley@hotmail.com	+1-527-177-4490x5814	Stewartville	11/23/2023	226451.6	Medium	Phone	Alternatives
+371ecd7b-27cd-4130-8722-9389571aa876	Bryan Zamora	atkinsonlynn@gmail.com	700.541.1998x679	North Sherrymouth	11/20/2023	510301.74	Medium	Email	Alternatives
+1a2a73ed-562b-4f79-8374-59eef50bea63	Kristopher Harvey	cynthia72@yahoo.com	-8257	Kathleenville	6/27/2024	36270.61	Low	Email	Alternatives
+5be6128e-18c2-4797-a142-ea7d17be3111	Kevin Mills	christina87@graham-simon.com	151.820.3778x892	North Jacob	11/3/2023	206849.27	Medium	Email	Mutual Funds
+43b7a3a6-9a8d-4a03-980d-7b71d8f56413	Christina Moran	mariahmiller@yahoo.com	(546)659-0515x186	Hawkinshaven	2/4/2025	653385.59	Low	SMS	Mutual Funds
+759cde66-bacf-43d0-8b1f-9163ce9ff57f	James Powers	qhudson@rogers-snyder.com	492-519-2546x2914	Garcialand	5/13/2024	549492.07	High	Phone	Bonds
+ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85	Eugene Walton	zlewis@peterson-beard.com	-9972	Angelamouth	3/9/2025	228236.22	High	Phone	Mutual Funds
+4b0dbb41-8d52-48f1-942c-3fe860e7a113	Jimmy Murillo	christophercortez@peters-allen.info	235-733-2214x1888	Smithchester	9/18/2024	593373.03	Medium	Phone	Bonds
+e2acf72f-9e57-4f7a-a0ee-89aed453dd32	Angel Lewis MD	fmcguire@yahoo.com	5929622292	Maxwellside	1/2/2025	811336.15	High	Phone	Mutual Funds
+3139d32c-93cd-49bf-9c94-1cf0dc98d2c1	Shirley Suarez	tholt@perkins.biz	001-706-537-9473x8347	New Adriana	6/22/2023	16433.77	Low	Phone	ETFs
+a9488d99-0bbb-4599-91ce-5dd2b45ed1f0	Christopher Bass	jacqueline44@yahoo.com	597.746.8862	Jacksonview	7/24/2023	807761.06	High	SMS	Bonds
+fc377a4c-4a15-444d-85e7-ce8a3a578a8e	Lisa Archer	griffithleslie@herrera.com	924.075.8181	Josephberg	11/12/2024	701158	Low	Email	Mutual Funds
+ddd1dfb2-3b98-4ef8-9af6-1a26146d3f31	Aimee Montoya	jenny89@yahoo.com	124-782-6137x5060	East Ryanchester	12/10/2024	346848.01	High	SMS	ETFs
+7412b293-4729-4739-a14f-f3d719db3ad0	Matthew Mcmillan	kennethward@smith-ferguson.com	(853)615-3051x5220	Toddland	2/23/2024	163924.7	Medium	SMS	Mutual Funds
+29a3b2e9-5d65-4441-9588-42dea2bc372f	Brian Rodriguez	tranheidi@little.com	727-790-1043x2898	Johnathanbury	3/23/2025	957640.94	High	SMS	Equities
+ab9099a4-35a2-40ae-9af3-05535ec42e08	Denise Jacobs	taylor75@sheppard.info	(143)410-3697x11798	Wheelerborough	5/26/2023	343228.6	High	Email	Equities
+aefcfad8-efc8-4849-b3aa-7efe4458a885	Christina Walters	moralescharles@parks.com	8932460953	Rodriguezport	11/11/2023	101818.38	High	Email	ETFs
+a28defe3-9bf0-4273-9247-6f57a5e5a5ab	John Whitehead	davidduran@carlson.biz	001-621-851-8888	South Martinfurt	2/11/2025	105749.21	Low	Phone	Alternatives
+3eabedcb-baa8-4dd4-88bd-64072bcfbe01	Anna Henderson	levans@yahoo.com	-4182	Scottchester	8/31/2024	849019.42	Low	SMS	Alternatives
+451b4cf3-6123-4df7-b656-af7229d4beef	Aaron Wise	lynchjody@gmail.com	(319)520-5852x772	West Malik	7/17/2023	607688.77	Medium	Phone	Equities
+b02b61c4-a3d7-4628-ace6-6fa2fd5166e6	Deborah Figueroa	donna23@arnold.com	(170)430-3054	South Leon	10/5/2024	809056.99	Low	Email	Equities
+5304317f-af42-412f-b838-b3268e944239	Jessica Smith	enorris@yahoo.com	687.403.4505x41566	Novakport	2/10/2025	732434.47	High	Email	Alternatives
+0e51f30d-c6a7-4e39-84b0-32ccd7c524a5	Stephen Mckee	keithcampbell@jones-hall.com	001-765-277-5841x6169	Faulknerbury	7/22/2023	540865.81	High	Email	Bonds
+ce177b4e-0837-48a3-9261-a7ab3aa2e4f9	Sandra Aguilar	owilson@hernandez.com	(845)115-4479	Nicholasfurt	10/20/2023	973384.61	Low	Email	Alternatives
+10f1bc81-448a-4a9e-a6b2-bc5b50c187fc	Cameron Parker	brooke94@martinez-barker.biz	001-627-570-5964x016	Danielshire	8/1/2023	384749.03	High	SMS	Mutual Funds
+9132b63e-f162-47e4-a9c3-49e03602f8ac	Rebecca Valencia	mkim@gmail.com	(820)297-0213x556	New Wendy	10/13/2024	556520.22	Medium	Phone	Bonds
+366eb16f-508e-4ad7-b7c9-3acfe059a0ee	Christine Wright	cassandra01@gmail.com	001-092-755-7192	Lake Katrina	12/16/2023	831110.62	Medium	Email	Mutual Funds
+e27a984d-6548-41d0-bfcd-9eb1a7cad415	Richard Henson	barbara27@pearson.org	565.431.0278x68144	Lake Stevenborough	1/12/2025	622334.55	Low	Phone	Equities
+24933b83-7577-40a9-a491-f0b2ea1fca65	Marc Moore	ecosta@yahoo.com	001-739-473-1217x271	Salinasland	10/19/2023	863089.83	Low	Email	Bonds
+beb79919-3f22-4af8-a3be-d01d43cf2fde	Sharon Cherry	manuel12@yahoo.com	+1-551-884-4225x83132	Chambersberg	11/21/2024	581578.62	Medium	Phone	Mutual Funds
+bf3c4c06-4343-48bc-89fa-6a688fb5d27b	Sierra Johnson	zroberts@hotmail.com	705.895.7829	Johnberg	1/24/2025	707526.12	Medium	Phone	Mutual Funds
+956269f0-e5d7-4875-adad-d6c795a76d79	Evelyn Galvan	qmiller@wilson-barton.net	146-786-6912	Mccormickland	9/16/2024	55366.14	Low	Email	Bonds
+ff50bde4-3825-47b8-9cab-cc97663f1c97	Sharon Cochran	mgutierrez@cox.com	177-852-8922x68018	Ewingfort	2/9/2024	235619.29	Low	Email	ETFs
+7e570ddf-8270-40a8-a369-b584ff5e9ff0	Richard Rodriguez	andrea47@washington.com	(422)535-8414	Fergusonchester	4/24/2024	296494.08	Low	Phone	Alternatives
+dc713d96-0c0f-4195-817a-f08a1745d6d8	Shannon Walker	andrea86@walker.info	842.498.1829	Port Tanyaside	7/29/2023	88994.06	High	SMS	Mutual Funds
+28f49481-a0a0-4dc4-a720-9bdf1c11f735	Julia Torres	tyronemoran@thornton.info	001-229-959-0010	North Kaylastad	7/1/2024	240462.98	Low	Email	Alternatives
+98ae4334-6c12-4ce8-ae34-0454cac5b68c	Crystal Johnson	yarnold@weeks.com	+1-943-969-0784x4736	Lake Cheyenne	8/13/2024	109991.42	Low	Email	Alternatives
+988c24c9-61b1-4d22-a280-1c4510435a10	Garrett Lin	kendra65@adams.org	710-276-7735x9255	Rasmussenmouth	11/4/2023	285193.87	High	SMS	Equities
+405cacec-8774-49a9-b7d2-1e02ff01cf99	Diana May	seanwashington@yahoo.com	001-562-588-1537x1473	Rodriguezville	8/9/2024	639327.6	Medium	SMS	Alternatives
+f143262f-dc5c-4eed-8da0-365bf89897b9	William Herrera	mcantu@hotmail.com	(104)696-3259	Jeffreyhaven	2/25/2024	371183.86	Low	Email	Mutual Funds
+1d53434b-b881-49b9-ae27-0da702f06b90	Ashley Waller	xhall@williams-garner.biz	001-532-787-7470x1687	South Neil	1/26/2024	376479.16	High	Email	Equities
+c0398710-8976-4334-a281-7efdae849217	Victor Baker	tylerjohnson@hotmail.com	395.004.7974	Bartonshire	3/26/2024	217411.96	Low	Email	Bonds
+5715bd6f-a416-4293-84c2-e2e3444ea7c8	Jeffrey Chandler	sawyerscott@hotmail.com	-6766	West Whitney	6/7/2023	274308.04	Low	Email	Mutual Funds
+287d06ca-6f4c-469a-8b22-d3081c8eaee9	Larry Dixon	bowenrobert@hotmail.com	9835841687	Garciachester	8/14/2024	937288.04	High	Phone	Equities
+b8db0672-f42d-47cc-80d4-af5974273ca3	Kenneth Scott	harrisontanya@hanson-sanders.com	001-849-912-1655x85239	North Marieberg	12/17/2024	651555.03	Medium	Phone	Equities
+f8cda88b-436d-46e2-b83c-fe0be037e5ed	April Frost	ofinley@hotmail.com	680.002.5787x29825	Larrymouth	2/21/2025	613039.7	High	Phone	Alternatives
+81f76d1c-2dbc-4134-830f-f46e8026695f	Michelle Harmon	williamsonjimmy@hotmail.com	+1-526-949-5888x794	New Timothy	11/27/2024	179427.26	Low	Email	Bonds
+a013ac6e-deda-4e16-9b3d-bd5ce9a1fa6f	Helen Jones	juliehamilton@gmail.com	055.169.4097x4993	Davismouth	6/21/2023	731835.53	Medium	Phone	Mutual Funds
+81f631d4-a392-41a7-9777-a4774c66e0a8	Erin Edwards	tjackson@williams.com	001-097-289-6230x9130	Carloston	2/16/2024	171768.47	High	Email	Mutual Funds
+5fb8d16c-2720-497d-b2eb-d6899be578c7	Michelle Evans	ryan38@yahoo.com	562.636.8970x283	North Melindaville	5/14/2024	385660.89	High	Email	Alternatives
+f4188f3f-8a14-4e62-a95b-4715c333e861	Jason Powell	gregorylynch@harvey-allen.org	-9087	Lake John	11/12/2024	989628.12	Medium	Phone	Bonds
+eb2263dd-87c5-421e-ac24-a3c5c754108f	Cameron Fisher	stevenking@estrada-nolan.info	(497)334-8434x437	New Ethan	11/12/2023	643599.76	Low	Email	Mutual Funds
+7d154385-52fb-443b-9954-6eb400257ad1	Megan Orr	charleslandry@hotmail.com	758-441-9866x52404	Mullenbury	9/30/2024	561380.25	High	Phone	Bonds
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82	Elizabeth Kelley	dvaughn@yahoo.com	001-157-473-3848x421	Sotoburgh	4/6/2025	687768.11	High	Phone	Mutual Funds
+ce88cb2d-d4e8-4839-bc3e-058be0f3eab0	Dustin Jordan	gcastaneda@james.org	+1-933-083-3016x571	Fosterborough	2/19/2025	844423.4	High	Phone	Alternatives
+3da9c2a9-0ed4-4f1a-bd4c-bf374eb93eff	Mary Marshall	andrew64@gmail.com	+1-208-267-7345x40193	Vargasfurt	1/21/2024	778239.91	Low	Phone	ETFs
+14296c07-f26b-4776-913e-4de2e0c53cb8	Daniel Kennedy	swall@lawson.com	-7471	Lake Jasonview	3/28/2024	236757.59	High	Phone	Mutual Funds
+d0e6e660-7c69-4ee1-bb5e-4bcf15ed6269	Rebecca Jackson	erica21@lucas.org	4991547887	New Cristianside	4/23/2024	41779.24	Medium	SMS	Equities
+885f6e66-c2b6-42c5-ba5d-310011b7e948	Jose Schultz	christopherphillips@hotmail.com	(874)315-2742	West Mark	12/20/2023	322298.52	Medium	SMS	Equities
+a8e56e0c-20de-435d-a031-d750c40db9b4	Robert Potter	jamesbuchanan@yahoo.com	5493296685	Wilsonfort	7/5/2024	275063.47	High	SMS	ETFs
+2a45c2ab-8cbf-4db0-b264-accc79ac1b1e	Courtney Gonzalez	jonathansummers@yahoo.com	612-275-3046	Candicefurt	4/11/2023	218873.02	High	SMS	Mutual Funds
+9b49bd26-df57-459a-8715-a10343dac043	David Alvarez	linda71@gmail.com	745.499.0453	West Michaelmouth	2/12/2025	943480.62	Medium	SMS	Equities
+edcd465e-3638-4821-b6e0-7cc06c52c49f	Angel Perry	zcoffey@diaz.net	1742684145	Port Emily	12/1/2024	877603.95	Medium	Phone	Equities
+b09b2a5c-badc-432a-8159-0f538a0f4efb	Cheyenne Horton	vrichardson@baker.com	+1-332-727-9568x783	Samanthashire	1/27/2025	321531.1	High	Email	Mutual Funds
+66245bfa-4fcc-439a-b683-d2e6337ea2df	David Douglas Jr.	thomasharvey@murphy.info	001-391-878-5191x08839	Lake Dennisville	10/30/2024	658884.28	Medium	Email	Bonds
+5f987c71-a65e-488e-abf3-ad39fec21bbe	Patricia Rodriguez	cwilson@gmail.com	-5066	West Daryl	6/21/2023	401675.58	Low	Phone	Mutual Funds
+7394988f-847f-49b4-a64d-1bcb702753a1	Christopher Rubio	pwilson@hotmail.com	707.286.7908x74064	Heatherhaven	10/28/2024	915402.11	Low	Email	Bonds
+1064005c-3985-43cf-bf76-be1d1efa2197	Amber Wright	qchavez@horton.com	3910651801	Barnesberg	3/31/2024	464263.33	Low	Email	ETFs
+8dcdcd03-969b-4662-8562-8059568cc69b	Joyce Solis	basschristina@yahoo.com	046.226.5676x6182	Hendersonfort	8/15/2024	272231.36	Low	SMS	Alternatives
+01d74256-3860-4ab6-96a4-02f23ae8cc93	Victoria Larson	jeff73@garcia-jennings.net	+1-512-868-2300x4786	New Garrett	9/6/2024	254161.23	Medium	SMS	ETFs
+0f1259e0-a18f-46b6-b535-106e122c9a56	Stephanie Salazar	sandersjames@gmail.com	-5694	Donaldmouth	10/2/2024	565754.45	Low	SMS	Alternatives
+080aadfb-e7c9-4b26-9141-25c63a9bedd4	Kathy Rivas	batesdarlene@hotmail.com	+1-690-331-1907x90306	Harveystad	1/13/2024	270114.19	High	Email	Equities
+839fbc50-1223-4513-9496-f63cdc1110c1	Stephanie Manning	buchananjohn@buchanan.com	383.028.4395x995	South Derrickfurt	1/29/2025	588740.13	High	SMS	Equities
+7c441fe7-ab42-40a7-874a-493b3ceddf2d	David Wright	lisahall@kramer.com	428.364.4089	Ortizfort	5/29/2023	898844.65	Low	Phone	Equities
+b92da22b-21df-406f-8a0b-3c3336d8393a	Pamela Boyd	vanessafernandez@gmail.com	001-268-705-6856x6246	Mckinneymouth	12/18/2024	405406.5	High	Email	Bonds
+93829b43-922f-415a-a1e3-db63ef7ddc76	Denise Jones	andersonmichael@chapman.com	(873)342-7086	Jacksonshire	5/29/2024	227127.55	Low	Email	Alternatives
+7914c120-c8dc-419f-be35-11287900f7f9	Devon Flores	martinezrobert@gmail.com	(882)634-3517x51830	Port Kathleenport	2/12/2024	997562.23	Low	SMS	Equities
+1825bc54-30be-445f-a835-14f2ceb81f9d	Brenda Hall	xwest@wheeler.org	699-013-9837x354	West Jeffreyport	9/26/2023	514431.03	Low	Phone	Mutual Funds
+5ab33edf-6e59-4ed3-a8b3-17fa18d0752b	Michelle Brown	stephen00@boone-simmons.com	3317393638	Port Stephen	3/8/2024	100000.32	High	SMS	Alternatives
+dd2467ac-778e-4db3-a93d-ffbc6c6fa611	Joshua Perry	fjones@yahoo.com	467-854-4587x71753	Dunnville	1/9/2025	56645.21	High	SMS	Alternatives
+a748dbcf-ac61-4e63-8dde-29a6baa4b71a	Jason Stein	martinezclaudia@kelley.net	(560)932-0489x964	West Kimberlystad	9/21/2023	118552.64	Low	Email	Bonds
+0f844fef-1931-49ee-a56c-0941fbf24050	Melissa Gates	bwagner@gmail.com	(353)693-7854	Port Jenniferside	4/28/2024	631171.58	Low	Email	ETFs
+ccf3a171-56dc-4907-ba6c-34ab6712303a	Jamie Smith	russellbeasley@morgan-chavez.biz	001-777-252-2872x80801	South Curtis	11/4/2023	794158.57	Low	SMS	Bonds
+310c0c00-3fa7-4104-9bf9-0e27dc96925e	Paul Castaneda	ronald45@mcdaniel.com	+1-006-231-2038x75099	West Nancy	12/16/2023	427938.37	Low	Email	Equities
+23e2fcb4-72d8-467d-894a-05e430b187ef	Jennifer Adkins	daviscolin@watson.net	700.886.0084x8408	South Joseland	1/12/2025	72892.43	Medium	Email	Mutual Funds
+766ecb15-474e-4c19-aef9-12766c006f61	Lindsey Walker	jenkinsmorgan@yahoo.com	001-621-182-3398x454	Grimesville	11/16/2023	387803.09	Low	Email	Mutual Funds
+134c6c92-ec5b-427c-9fde-4fbf3ff350bf	Jeffrey Johnson	caroline51@romero.com	(156)793-3410x1666	East Lisa	12/28/2023	996160.17	High	SMS	Equities
+db20a56e-dc81-4fe7-8eda-8bbb71710434	Michael Powell	danny49@gmail.com	-7507	Michellechester	6/8/2024	533823.2	Low	Email	Mutual Funds
+a6f2f7b8-0cf3-4b58-9910-8be58ce21ea3	John Anderson	lynchdiane@hotmail.com	033.974.0148x90250	New Donald	7/1/2024	971367.59	Medium	SMS	Bonds
+03c72ba8-d605-4770-8a63-f881ffd0f9d5	Alyssa Long	whitejacqueline@yahoo.com	926.142.9396	Port Jamie	7/20/2023	862171.91	High	Email	Bonds
